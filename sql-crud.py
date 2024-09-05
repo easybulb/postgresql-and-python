@@ -80,6 +80,14 @@ tim_berners_lee = Programmer(
     famous_for="World Wide Web"
 )
 
+henry_ofodieze_easybulb = Programmer(
+    first_name="Henry",
+    last_name="Ofodieze",
+    gender="M",
+    nationality="British",
+    famous_for="Easybulb"
+)
+
 # add each instance of our programmers to our session
 # session.add(ada_lovelace)
 # session.add(alan_turing)
